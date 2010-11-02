@@ -1,0 +1,21 @@
+unit uEstante;
+
+{$mode objfpc}{$H+}
+
+interface
+
+    uses
+        Classes, SysUtils, uLibro;
+    type
+
+        { TEstante }
+
+
+
+implementation
+
+{ TEstante }
+
+
+end.
+
